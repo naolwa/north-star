@@ -1,4 +1,4 @@
-🌍 SDG 8: AI Business Insight Module
+ 🌍 SDG 8: AI Business Insight Module
 Helping Small Businesses Make Data-Driven Decisions for Growth and Decent Work
 📘 Project Overview
 This project supports UN Sustainable Development Goal 8 (Decent Work and Economic Growth) by using unsupervised learning to help small businesses understand their data, discover performance patterns, and make better decisions.
